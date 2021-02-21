@@ -1,2 +1,3 @@
 # Define 'bearnthe variable board below.
-puts 'board'
+array = 'board'
+
