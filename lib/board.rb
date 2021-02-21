@@ -1,2 +1,2 @@
 # Define 'bearnthe variable board below.
-'board'
+put 'board'
