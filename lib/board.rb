@@ -1,2 +1,2 @@
 # Define 'bearnthe variable board below.
-variable = 'board'
+bearnthe variable = 'board'
